@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Карта КамчатГТУ]]></data>
+  <data name="en_project_author_name"><![CDATA[Robert Garaev, Armem Zmeev]]></data>
+  <data name="en_project_author_url"><![CDATA[http://vk.com/proinpast]]></data>
+
+
+
+  <data name="en_pano70_title"><![CDATA[главный]]></data>
+
+
+  <data name="en_pano74_title"><![CDATA[MAIN TO 7-1]]></data>
+
+
+  <data name="en_pano77_title"><![CDATA[MAIN TO 7-2]]></data>
+
+
+  <data name="en_pano80_title"><![CDATA[MAIN TO 7-3]]></data>
+
+
+  <data name="en_pano83_title"><![CDATA[SEVEN]]></data>
+
+
+  <data name="en_pano86_title"><![CDATA[7 TO 3]]></data>
+
+
+  <data name="en_pano89_title"><![CDATA[3 корпус]]></data>
+
+
+  <data name="en_pano103_title"><![CDATA[3 корпус-2]]></data>
+
+
+	<data name="en_spotmap73_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap76_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap79_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap82_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap85_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap88_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap91_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap105_tooltip"><![CDATA[]]></data>
+
+
+	<data name="en_project_floor_title"><![CDATA[Карта КамчатГТУ]]></data>
+	<data name="en_spotmap117_tooltip"><![CDATA[Перейти к главному корпусу]]></data>
+	<data name="en_spotmap118_tooltip"><![CDATA[Перейти к 3 корпусу]]></data>
+	<data name="en_spotmap120_tooltip"><![CDATA[Перейти к 7 корпусу]]></data>
+	<data name="en_spotmap121_tooltip"><![CDATA[Перейти к 3 корпусу]]></data>
+
+
+  <data name="en_buttontooltip"><![CDATA[Карта КамчатГТУ]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
